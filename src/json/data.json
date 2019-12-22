@@ -1,0 +1,28 @@
+{
+    "list":[
+        {
+            "name":"AAA",
+            "value":"222"
+        },
+        {
+            "name":"BBBB",
+            "value":"111"
+        },
+        {
+            "name":"CCC",
+            "value":"364"
+        },
+        {
+            "name":"DDD",
+            "value":"15"
+        },
+        {
+            "name":"EEE",
+            "value":"412"
+        },
+        {
+            "name":"FFF",
+            "value":"66"
+        }
+    ]
+}
